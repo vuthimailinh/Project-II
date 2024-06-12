@@ -1,0 +1,828 @@
+openapi: '3.0.2'
+info:
+    title: API Title
+    version: '1.0'
+servers:
+    - url: http://localhost:8080/api/v1
+paths:
+    /sign-up:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Register a new user (checked)
+            description: Endpoint to register a new user with email, password, and username.
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                username:
+                                    type: string
+                                email:
+                                    type: string
+                                    format: email
+                                password:
+                                    type: string
+
+            responses:
+                '200':
+                    description: Update an existent pet in the store
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+                        application/xml:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+                        application/x-www-form-urlencoded:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+    /sign-in:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Register a new user (checked)
+            description: Endpoint to register a new user with email, password, and username.
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+                                password:
+                                    type: string
+
+            responses:
+                '200':
+                    description: Update an existent pet in the store
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+                        application/xml:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+                        application/x-www-form-urlencoded:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+    /forgot-password/getCode:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Send code to reset password
+            description: Endpoint to send code to reset password (create 6 number code then save into user collection)
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+
+            responses:
+                '200':
+                    description: User verified successfully
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: Verify your email
+    /forgot-password/reset-password:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Send code to reset password
+            description: Endpoint to send code to reset password (check if email existd and code )
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+                                resetCode:
+                                    type: string
+                                password:
+                                    type: string
+
+            responses:
+                '200':
+                    description: User verified successfully
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+    /get-access-token:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: get access token
+            description: Endpoint to get access token by send refresh token
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                refreshToken:
+                                    type: string
+                                    example: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjBlMGVmODgxMzFhODEyOWExZGRhMWYiLCJlbWFpbCI6ImFzZGFkc0BnbWFpbC5jb20iLCJpYXQiOjE3MTIxOTczNjgsImV4cCI6MTcxMjIwMDk2OH0.WCdF_fppVaJblIbRgk22tzGhbrS9Uil8D1-7-BdVKIQ'
+            responses:
+                '200':
+                    description: return old refresh token and access token
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/JwtToken'
+
+    /sendCode:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Send verification code
+            description: server will send a code to email, user get that code to verify user
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+            responses:
+                '200':
+                    description: Code sent successfully
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: Verification code sent successfully
+                '400':
+                    description: Invalid request
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: Invalid email format
+    /verifyUser:
+        post:
+            tags:
+                - auth
+                - mai linh
+            summary: Verify user
+            description: Endpoint to verify the user by checking if the provided email and code match.
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+                                code:
+                                    type: string
+
+            responses:
+                '200':
+                    description: User verified successfully
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: User verified successfully
+                '400':
+                    description: Invalid request
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: Invalid verification code
+                '404':
+                    description: User not found
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: User not found
+
+    /user/getUser:
+        get:
+            tags:
+                - user
+                - Truong Loc
+            summary: Get user by id
+            description: ''
+            operationId: getUserByName
+            parameters:
+                - name: username
+                  in: path
+                  description: 'The name that needs to be fetched. Use user1 for testing. '
+                  required: true
+                  schema:
+                      type: string
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/User'
+                        application/xml:
+                            schema:
+                                $ref: '#/components/schemas/User'
+                '400':
+                    description: Invalid username supplied
+                '404':
+                    description: User not found
+
+    /user/staff-registration:
+        post:
+            tags:
+                - user
+                - Truong Loc
+            summary: Registration for becoming a staff
+            description: send email and _id so that admin can make that user become a staff
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+                                _id:
+                                    type: string
+            responses:
+                '200':
+                    description: successfully
+                '400':
+                    description: failed
+
+    /user/deliver-registration:
+        post:
+            tags:
+                - user
+                - Truong Loc
+            summary: Registration for becoming a deliver
+            description: send email and _id so that admin can make that user become a deliver
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    format: email
+                                _id:
+                                    type: string
+            responses:
+                '200':
+                    description: successfully
+                '400':
+                    description: failed
+
+    /user/take-order:
+        post:
+            tags:
+                - user
+                - Truong Loc
+            summary: Take order
+            description: send product so that can add to user place orders
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                product_id:
+                                    type: string
+                                    example: 1nasd2132nss34
+                                user_id:
+                                    type: string
+                                    example: safda22sdf123
+
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+                '400':
+                    description: fail operation
+
+    /user/view-cart:
+        get:
+            tags:
+                - user
+                - new
+            summary: by using user id, get all products in the carts
+            description: this will help users see all of the products they have put in cart, so they can decide what to purcher, or to remove from cart, change status of order to completed
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+
+                '400':
+                    description: fail operation
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: fail
+
+    /user/checkout:
+        post:
+            tags:
+                - user
+                - new
+            summary: using id of that order to check if the purcher is successful
+            description: when user recieve the order that they have purcher, send a message to know if the order is deliver successfully
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            properties:
+                                product:
+                                    type: string
+                                    example: 1nasd2132nss34
+
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: Order placed successfully
+
+    /user/view-all-orders:
+        get:
+            tags:
+                - user
+            summary: by using user id, get all products in the carts
+            description: this will help users see all of the products they have put in cart, so they can decide what to purcher, or to remove from cart
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/order'
+
+                '400':
+                    description: fail operation
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: fail
+
+    /user/purchers-products:
+        post:
+            tags:
+                - user
+                - new
+            summary: purcher products
+            description: by using userId , user will send all of products's id that user want to buy
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                products:
+                                    type: array
+                                    items:
+                                        type: string
+                                        example: 1nasd2132nss34
+
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    message:
+                                        type: string
+                                        example: successfully
+
+    /user/updata-infomation:
+        put:
+            tags:
+                - user
+                - Truong Loc
+            summary: Update user infomation
+            description: update user infomation
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/User'
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/User'
+                '400':
+                    description: fail operation
+                '404':
+                    description: User not found
+    /product/view-smart-phone:
+        get:
+            tags:
+                - product
+            summary: view all smart phone by dates
+            description: view all smart phone by dates
+
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+    /product/view-laptop:
+        get:
+            tags:
+                - product
+            summary: view all smart phone by dates
+            description: view all smart phone by dates
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+    /product/view-table:
+        get:
+            tags:
+                - product
+            summary: view all smart phone by dates
+            description: view all smart phone by dates
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+
+    /product/view-accessoris:
+        get:
+            tags:
+                - product
+            summary: view all smart phone by dates
+            description: view all smart phone by dates
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Product'
+
+    /product/add-smart-phone:
+        post:
+            tags:
+                - product
+            description: add product to market, check if the sender is staff or admin
+            summary: add product to market
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/Product'
+            responses:
+                '200':
+                    description: Successful operation
+    /product/add-laptop:
+        post:
+            tags:
+                - product
+            description: add product to market, check if the sender is staff or admin
+            summary: add product to market
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/Product'
+            responses:
+                '200':
+                    description: Successful operation
+    /product/add-table:
+        post:
+            tags:
+                - product
+            description: add product to market, check if the sender is staff or admin
+            summary: add product to market
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/Product'
+            responses:
+                '200':
+                    description: Successful operation
+
+    /product/add-accessories:
+        post:
+            tags:
+                - product
+            description: add product to market, check if the sender is staff or admin
+            summary: add product to market
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            $ref: '#/components/schemas/Product'
+            responses:
+                '200':
+                    description: Successful operation
+
+    /admin/view/{type}:
+        get:
+            tags:
+                - 'admin'
+            summary: Retrieve items based on type
+            description: Get a list of items filtered by type all, deliver, or staff.
+
+            parameters:
+                - name: type
+                  in: path
+                  required: true
+                  description: Filter items by type. Allowed values are "all", "deliver", and "staff".
+                  schema:
+                      type: string
+                      enum: [all, deliver, staff]
+                      default: all
+            responses:
+                '200':
+                    description: A list of items filtered by type
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/request'
+
+                '400':
+                    description: Bad request. Invalid type parameter.
+                '500':
+                    description: Internal server error.
+    /admin/accept:
+        post:
+            tags:
+                - 'admin'
+            summary: 'accept add staff request and deliver request'
+            requestBody:
+                content:
+                    application/json:
+                        schema:
+                            type: 'object'
+                            properties:
+                                id:
+                                    type: string
+                                type:
+                                    type: string
+            responses:
+                '200':
+                    description: 'Successful operation'
+                '400':
+                    description: 'Bad request. Invalid id parameter.'
+                '404':
+                    description: 'User not found.'
+                '500':
+                    description: 'Internal server error.'
+components:
+    schemas:
+        JwtToken:
+            type: object
+            properties:
+                access_token:
+                    type: string
+                    example: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjBlMGVmODgxMzFhODEyOWExZGRhMWYiLCJlbWFpbCI6ImFzZGFkc0BnbWFpbC5jb20iLCJpYXQiOjE3MTIxOTczNjgsImV4cCI6MTcxMjIwMDk2OH0.WCdF_fppVaJblIbRgk22tzGhbrS9Uil8D1-7-BdVKIQ'
+                refresh_token:
+                    type: string
+                    example: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjBlMGVmODgxMzFhODEyOWExZGRhMWYiLCJlbWFpbCI6ImFzZGFkc0BnbWFpbC5jb20iLCJpYXQiOjE3MTIxOTczNjh9.4wXJGeslxCsf4Wv9huFj0J4tgfq5Cm9P7VT2zCZTd2M'
+        User:
+            type: object
+            properties:
+                _id:
+                    type: string
+
+                email:
+                    type: string
+                    format: email
+                name:
+                    type: string
+                username:
+                    type: string
+                status:
+                    $ref: '#/components/schemas/UserStatus'
+                role:
+                    $ref: '#/components/schemas/UserRole'
+
+        UserRole:
+            type: string
+            enum:
+                - user
+                - deliver
+                - admin
+                - staff
+        UserStatus:
+            type: string
+            enum:
+                - active
+                - inactive
+                - banned
+        ProductInput:
+            type: object
+            properties:
+                name:
+                    type: string
+                discount:
+                    type: number
+                price:
+                    type: string
+                brand:
+                    type: string
+                    enum:
+                        - Apple
+                        - Samsung
+                        - Huawei
+                        - Oppo
+                        - Xiaomi
+                        - Nokia
+                        - Asus
+                        - Dell
+                        - MacBook
+                        - Acer
+                        - Hp
+                        - Msi
+                        - IPad
+                version:
+                    type: array
+                items:
+                    type: string
+                category:
+                    type: string
+                    enum:
+                        - Smart Phone
+                        - Laptop
+                        - Tablet
+                        - Smart Watch
+                        - Accessories
+                images:
+                    type: array
+                    items:
+                        type: string
+        Product:
+            type: object
+            properties:
+                _id:
+                    type: string
+                name:
+                    type: string
+                discount:
+                    type: number
+                price:
+                    type: number
+                brand:
+                    type: string
+                    enum:
+                        - Apple
+                        - Samsung
+                        - Huawei
+                        - Oppo
+                        - Xiaomi
+                        - Nokia
+                        - Asus
+                        - Dell
+                        - MacBook
+                        - Acer
+                        - Hp
+                        - Msi
+                        - IPad
+                version:
+                    type: array
+                items:
+                    type: string
+                category:
+                    type: string
+                    enum:
+                        - Smart Phone
+                        - Laptop
+                        - Tablet
+                        - Smart Watch
+                        - Accessories
+                images:
+                    type: array
+                    items:
+                        type: string
+        order:
+            type: object
+            properties:
+                _id:
+                    type: string
+                products:
+                    type: string
+                    items:
+                        $ref: '#/components/schemas/Product'
+
+        request:
+            type: object
+            properties:
+                _id:
+                    type: integer
+                    example: 1
+                name:
+                    type: string
+                    example: 'Sample Item'
+                type:
+                    type: string
+                    example: 'deliver'

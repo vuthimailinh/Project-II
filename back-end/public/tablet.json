@@ -1,0 +1,885 @@
+[
+    {
+        "name": "IPad 9 Wifi",
+        "brand": "IPad",
+        "price": 7090000,
+        "category": "Tablet",
+        "discount": 15,
+        "version": [
+            {
+                "color": "Bạc",
+                "memory": "64GB",
+                "price": 7090000
+            },
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 7090000
+            },
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 10790000
+            },
+            {
+                "color": "Bạc",
+                "memory": "256GB",
+                "price": 10790000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/247517/iPad-9-wifi-trang-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/250730/ipad-wifi-9-xam-glr-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/250730/ipad-wifi-9-xam-glr-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/250730/ipad-9-wifi-trang-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/250730/ipad-gen-9-silver-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad Air 6 M2 11 inch WiFi",
+        "brand": "IPad",
+        "price": 16990000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xanh dương",
+                "memory": "128GB",
+                "price": 16990000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "128GB",
+                "price": 16990000
+            },
+            {
+                "color": "Trắng",
+                "memory": "128GB",
+                "price": 16990000
+            },
+            {
+                "color": "Xám",
+                "memory": "128GB",
+                "price": 16990000
+            },
+            {
+                "color": "Tím",
+                "memory": "128GB",
+                "price": 16990000
+            },
+            {
+                "color": "Xám",
+                "memory": "512GB",
+                "price": 24990000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "512GB",
+                "price": 24990000
+            },
+            {
+                "color": "Tím",
+                "memory": "512GB",
+                "price": 24990000
+            },
+            {
+                "color": "Trắng",
+                "memory": "512GB",
+                "price": 24990000
+            },
+            {
+                "color": "Tím",
+                "memory": "1TB",
+                "price": 30490000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "1TB",
+                "price": 30490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-blue-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-blue-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-kem-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-grey-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-purple-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-purple-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325505/ipad-air-11-inch-m2-wifi-purple-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad Pro M4 11 inch WiFi",
+        "brand": "IPad",
+        "price": 28990000,
+        "category": "Tablet",
+        "discount": 10,
+        "version": [
+            {
+                "color": "Bạc",
+                "memory": "256GB",
+                "price": 28990000
+            },
+            {
+                "color": "Đen",
+                "memory": "256GB",
+                "price": 28990000
+            },
+            {
+                "color": "Bạc",
+                "memory": "512GB",
+                "price": 34490000
+            },
+            {
+                "color": "Đen",
+                "memory": "512GB",
+                "price": 34490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/325513/ipad-pro-11-inch-m4-wifi-black-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325514/ipad-pro-11-inch-m4-wifi-sliver-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325514/ipad-pro-11-inch-m4-wifi-sliver-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/325514/ipad-pro-11-inch-m4-wifi-black-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad Air 5 M1 WiFi",
+        "brand": "IPad",
+        "price": 13890000,
+        "category": "Tablet",
+        "discount": 10,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 13890000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "64GB",
+                "price": 13890000
+            },
+            {
+                "color": "Trắng",
+                "memory": "64GB",
+                "price": 13890000
+            },
+            {
+                "color": "Hồng",
+                "memory": "64GB",
+                "price": 13890000
+            },
+            {
+                "color": "Tím",
+                "memory": "64GB",
+                "price": 13890000
+            },
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 18790000
+            },
+            {
+                "color": "Hồng",
+                "memory": "256GB",
+                "price": 18790000
+            },
+            {
+                "color": "Tím",
+                "memory": "256GB",
+                "price": 18790000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-wifi-grey-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/274154/ipad-air-5-m1-xanh-duong-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-m1-tim-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-m1-trang-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-m1-hong-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/248096/ipad-air-5-m1-hong-3.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad 10 WiFi",
+        "brand": "IPad",
+        "price": 10590000,
+        "category": "Tablet",
+        "discount": 7,
+        "version": [
+            {
+                "color": "Bạc",
+                "memory": "64GB",
+                "price": 10590000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "64GB",
+                "price": 10590000
+            },
+            {
+                "color": "Vàng",
+                "memory": "64GB",
+                "price": 10590000
+            },
+            {
+                "color": "Hồng",
+                "memory": "64GB",
+                "price": 10590000
+            },
+            {
+                "color": "Vàng",
+                "memory": "256GB",
+                "price": 14490000
+            },
+            {
+                "color": "Hồng",
+                "memory": "256GB",
+                "price": 14490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/294103/iPad-Gen-10-sliver-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/293543/ipad-10-vang-glr-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/293543/ipad-gen-10-pink-2-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/293543/ipad-gen-10-blue-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/293543/ipad-gen-10-bac-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/293543/ipad-gen-10-bac-3.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab A9 WiFi",
+        "brand": "Samsung",
+        "price": 3490000,
+        "category": "Tablet",
+        "discount": 12,
+        "version": [
+            {
+                "color": "Bạc",
+                "memory": "Wifi",
+                "price": 3490000
+            },
+            {
+                "color": "Đen",
+                "memory": "Wifi",
+                "price": 3490000
+            },
+            {
+                "color": "Xanh dương đậm",
+                "memory": "Wifi",
+                "price": 3490000
+            },
+            {
+                "color": "Xám",
+                "memory": "4GB",
+                "price": 4690000
+            },
+            {
+                "color": "Xanh dương đậm",
+                "memory": "4GB",
+                "price": 4690000
+            },
+            {
+                "color": "Xám",
+                "memory": "4GB",
+                "price": 4690000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/315390/samsung-galaxy-tab-a9-bac-thumb-1-600x600.jp",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-xam-1.jpgg",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-xanh-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-xanh-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-bac-1-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-bac-4g-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/317621/samsung-galaxy-tab-a9-xam-4g-6.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab S9 FE WiFi",
+        "brand": "Samsung",
+        "price": 8990000,
+        "category": "Tablet",
+        "discount": 10,
+        "version": [
+            {
+                "color": "Xanh",
+                "memory": "Tab S9 FE",
+                "price": 8990000
+            },
+            {
+                "color": "Đen",
+                "memory": "Tab S9 FE",
+                "price": 8990000
+            },
+            {
+                "color": "Xám",
+                "memory": "Tab S9 FE",
+                "price": 8990000
+            },
+            {
+                "color": "Xanh",
+                "memory": "Tab S9 FE+",
+                "price": 11990000
+            },
+            {
+                "color": "Đen",
+                "memory": "Tab S9 FE+",
+                "price": 11990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/309818/galaxy-tab-s9-fe-xanh-mint-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309819/samsung-galaxy-s9-fe-plus-xam-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309819/samsung-galaxy-tab-s9-fe-bac-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309819/samsung-galaxy-tab-s9-fe-bac-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309819/samsung-galaxy-s9-fe-plus-xam-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309819/samsung-galaxy-s9-fe-plus-xam-5.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab S9 5G",
+        "brand": "Samsung",
+        "price": 19990000,
+        "category": "Tablet",
+        "discount": 13,
+        "version": [
+            {
+                "color": "Kem",
+                "memory": "8GB-128GB",
+                "price": 19990000
+            },
+            {
+                "color": "Xám",
+                "memory": "8GB-128GB",
+                "price": 19990000
+            },
+            {
+                "color": "Xám",
+                "memory": "12GB-256GB",
+                "price": 21990000
+            },
+            {
+                "color": "Kem",
+                "memory": "12GB-256GB",
+                "price": 21990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/311062/samsung-galaxy-tab-s9-kem-thumbnew-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311063/samsung-galaxy-tab-s9-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311063/samsung-galaxy-tab-s9-kem-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311063/samsung-galaxy-tab-s9-kem-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311063/samsung-galaxy-tab-s9-5g-xam-256gb-5.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab S6 Lite (2024)",
+        "brand": "Samsung",
+        "price": 8490000,
+        "category": "Tablet",
+        "discount": 5,
+        "version": [
+            {
+                "color": "Xanh lá",
+                "memory": "64GB",
+                "price": 8490000
+            },
+            {
+                "color": "Đen",
+                "memory": "64GB",
+                "price": 8490000
+            },
+            {
+                "color": "Xanh lá",
+                "memory": "128GB",
+                "price": 10190000
+            },
+            {
+                "color": "Đen",
+                "memory": "128GB",
+                "price": 10190000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-mint-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-grey-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-grey-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-grey-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322134/samsung-galaxy-tab-s6-lite-2024-mint-1.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab S9+ WiFi",
+        "brand": "Samsung",
+        "price": 21990000,
+        "category": "Tablet",
+        "discount": 15,
+        "version": [
+            {
+                "color": "Kem",
+                "memory": "256GB",
+                "price": 21990000
+            },
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 21990000
+            },
+            {
+                "color": "Kem",
+                "memory": "512GB",
+                "price": 23990000
+            },
+            {
+                "color": "Xám",
+                "memory": "512GB",
+                "price": 23990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/307178/samsung-galaxy-tab-s9-plus-kem-thumbnew-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311072/samsung-galaxy-tab-s9-plus-xam-1-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311072/samsung-galaxy-tab-s9-plus-xam-2-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311072/samsung-galaxy-tab-s9-plus-5g-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/311072/samsung-galaxy-tab-s9-plus-wifi-512gb-bac-5-1.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Xiaomi Redmi Pad SE",
+        "brand": "Xiaomi",
+        "price": 4290000,
+        "category": "Tablet",
+        "discount": 4,
+        "version": [
+            {
+                "color": "Xanh lá",
+                "memory": "4GB-128GB",
+                "price": 4290000
+            },
+            {
+                "color": "Tím",
+                "memory": "4GB-128GB",
+                "price": 4290000
+            },
+            {
+                "color": "Tím",
+                "memory": "6GB-128GB",
+                "price": 4990000
+            },
+            {
+                "color": "Đen",
+                "memory": "6GB-128GB",
+                "price": 4990000
+            },
+            {
+                "color": "Xám",
+                "memory": "8GB-256GB",
+                "price": 5590000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/315607/xiaomi-pad-se-xanh-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-tim-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xanh-la-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-4.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-5.jpeg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Xiaomi Pad 6",
+        "brand": "Xiaomi",
+        "price": 9490000,
+        "category": "Tablet",
+        "discount": 9,
+        "version": [
+            {
+                "color": "Xanh",
+                "memory": "256GB",
+                "price": 9490000
+            },
+            {
+                "color": "Vàng",
+                "memory": "256GB",
+                "price": 9490000
+            },
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 9490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-blue-thumb-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-xanh-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-den-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-vang-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-gold-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/309848/xiaomi-pad-6-den-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Xiaomi Redmi Pad SE",
+        "brand": "Xiaomi",
+        "price": 5590000,
+        "category": "Tablet",
+        "discount": 3,
+        "version": [
+            {
+                "color": "Tím",
+                "memory": "6GB-128GB",
+                "price": 5590000
+            },
+            {
+                "color": "Xanh lá",
+                "memory": "8GB-256GB",
+                "price": 7390000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-tim-thumb-600x600.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-tim-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xanh-la-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-1.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-4.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/315622/xiaomi-redmi-pad-se-xam-5.jpeg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Xiaomi Redmi Pad Pro",
+        "brand": "Xiaomi",
+        "price": 8990000,
+        "category": "Tablet",
+        "discount": 5,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "6GB-128GB",
+                "price": 8990000
+            }
+        ],
+        "images": ["https://cdn.tgdd.vn/Products/Images/522/325988/xiaomi-redmi-pad-pro-thumb-600x600.jpeg"],
+        "items": ""
+    },
+    {
+        "name": "Máy tính bảng OPPO Pad Neo WiFi",
+        "brand": "Oppo",
+        "price": 6990000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "128GB",
+                "price": 6990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/322613/oppo-pad-neo-6gb-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322613/oppo-pad-neo-xam-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322613/oppo-pad-neo-xam-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/322613/oppo-pad-neo-xam-5.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Máy tính bảng OPPO Pad 2",
+        "brand": "Oppo",
+        "price": 12990000,
+        "category": "Tablet",
+        "discount": 13,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 12990000
+            },
+            {
+                "color": "Xám",
+                "memory": "512GB",
+                "price": 14990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/303146/oppo-pad-2-thumb-600x600.jpeg",
+            "https://cdn.tgdd.vn/Products/Images/522/303146/oppo-pad-2-xam-1-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/303146/oppo-pad-2-xam-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/303146/oppo-pad-2-xam-5.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Máy tính bảng OPPO Pad Air",
+        "brand": "Oppo",
+        "price": 5490000,
+        "category": "Tablet",
+        "discount": 15,
+        "version": [
+            {
+                "color": "Tím",
+                "memory": "64GB",
+                "price": 4990000
+            },
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 4990000
+            },
+            {
+                "color": "Tím",
+                "memory": "128GB",
+                "price": 5490000
+            },
+            {
+                "color": "Xám",
+                "memory": "128GB",
+                "price": 5490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/522/305838/oppo-pad-air-128gb-thumbnew-600x600.",
+            "https://cdn.tgdd.vn/Products/Images/522/281821/oppo-pad-air-1-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/281821/oppo-pad-air-5.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/305838/oppo-pad-air-128gb-tim-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/522/305838/oppo-pad-air-128gb-tim-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Huawei Tab M8 Gen 4 ",
+        "brand": "Huawei",
+        "price": 2490000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "32GB",
+                "price": 2490000
+            },
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 3290000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/may-tinh-bang-lenovo-tab-m8-gen-4.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/may-tinh-bang-lenovo-tab-m8-gen-4_1_.png"
+        ],
+        "items": ""
+    },
+    {
+        "name": "HuaweiTab P11 Plus",
+        "brand": "Huawei",
+        "price": 5490000,
+        "category": "Tablet",
+        "discount": 3,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 5490000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/e/lenovo-tab-p11-plus.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/5/45457_tab_p11_plus_ct1_02.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/e/lenovo-tab-p11-plus-grey-1.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Huawei Tab 10.1 Pro",
+        "brand": "Huawei",
+        "price": 2890000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Kem",
+                "memory": "64GB",
+                "price": 2890000
+            },
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 2890000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/p/h/photo_2024-04-15_11-10-42.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/may-tinh-bang-masstel-tab-10-1-pro_3_.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/a/may-tinh-bang-masstel-tab-10-1-pro_2_.png"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Nokia T21",
+        "brand": "Nokia",
+        "price": 4390000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "64GB",
+                "price": 4390000
+            },
+            {
+                "color": "Xám",
+                "memory": "128GB",
+                "price": 5390000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-t21_1_1.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/d/_d_1_1.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Nokia T20",
+        "brand": "Nokia",
+        "price": 6290000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xanh dương",
+                "memory": "64GB",
+                "price": 6290000
+            },
+            {
+                "color": "Trắng",
+                "memory": "64GB",
+                "price": 6290000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-t20-1-600x600.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-t20-600x600.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia_t20-dtc-kids-desktop.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/_/t_i_xu_ng_4__2_3.png"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra 5G",
+        "brand": "Samsung",
+        "price": 27990000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "128GB",
+                "price": 27990000
+            },
+            {
+                "color": "Đen",
+                "memory": "256GB",
+                "price": 28990000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-tab-s8-ultra.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tab_s8_ultra_001.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/t/https___bucketeer_e05bbc84_baa3_437e_9518_adb32be77984.s3.amazonaws.com_public_images_b08df22d_4b5e_46a8_87c5_fc303e133f8a_1500x1500.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad Gen 10 10.9 inch 2022 Wifi",
+        "brand": "IPad",
+        "price": 13590000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "256GB",
+                "price": 13590000
+            },
+            {
+                "color": "Hồng",
+                "memory": "256GB",
+                "price": 13590000
+            },
+            {
+                "color": "Vàng",
+                "memory": "256GB",
+                "price": 13590000
+            },
+            {
+                "color": "Xanh",
+                "memory": "256GB",
+                "price": 13590000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/ipad-10-9-inch-2022_1.png",
+            "https://cdn2.cellphones.com.vn/358x/media/catalog/product/v/n/vnaggf_3.png",
+            "https://cdn2.cellphones.com.vn/358x/media/catalog/product/x/n/xnah_d__3.png",
+            "https://cdn2.cellphones.com.vn/358x/media/catalog/product/h/_/h_ngff_3.png"
+        ],
+        "items": ""
+    },
+    {
+        "name": "iPad Air 5 10.9 inch (2022) WIFI",
+        "brand": "IPad",
+        "price": 14690000,
+        "category": "Tablet",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "128GB",
+                "price": 14690000
+            },
+            {
+                "color": "Hồng",
+                "memory": "128GB",
+                "price": 14690000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "128GB",
+                "price": 14690000
+            },
+            {
+                "color": "Tím",
+                "memory": "128GB",
+                "price": 14690000
+            },
+            {
+                "color": "Trắng vàng",
+                "memory": "128GB",
+                "price": 14690000
+            }
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/358x/media/catalog/product/1/_/1_253_4.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/9/_/9_44_1.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/5/_/5_158_3.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/3/_/3_225_3.jpg",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/6/16_1_3.png",
+            "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/7/17_1_1.png"
+        ],
+        "items": ""
+    }
+]

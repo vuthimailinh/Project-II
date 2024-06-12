@@ -1,0 +1,3052 @@
+[{
+  "_id": {
+    "$oid": "664a304689ab28c98026fada"
+  },
+  "name": "Điện thoại Samsung Galaxy S23 Ultra 5G 256GB",
+  "brand": "Samsung",
+  "price": 21990000,
+  "category": "Smart Phone",
+  "discount": 12,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh rêu",
+      "memory": "8GB-256GB",
+      "price": 21990000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB-256GB",
+      "price": 21990000
+    },
+    {
+      "color": "Đen",
+      "memory": "12GB-512GB",
+      "price": 26990000
+    },
+    {
+      "color": "Xanh rêu",
+      "memory": "12GB-512GB",
+      "price": 26990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s23-ultra-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/301796/Slider/samsung-galaxy-s23-ultra-ai-1020x570.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/301796/Slider/samsung-galaxy-s23-ultra-5g-512gb638120527278210835.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/301796/Slider/samsung-galaxy-s23-ultra-1020x570.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664a30fd89ab28c98026fadc"
+  },
+  "name": "Samsung Galaxy A55 5G",
+  "brand": "Samsung",
+  "price": 8290000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Kem",
+      "memory": "A35(8-128)",
+      "price": 8290000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "A35(8-128)",
+      "price": 8290000
+    },
+    {
+      "color": "Đen",
+      "memory": "A35(8-256)",
+      "price": 9290000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "A35(8-256)",
+      "price": 9290000
+    },
+    {
+      "color": "Kem",
+      "memory": "A55(8-128)",
+      "price": 9990000
+    },
+    {
+      "color": "Đen",
+      "memory": "A55(8-128)",
+      "price": 9989999
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-blue-thumbnew-600x600.jpg",
+    "https://cdn.tgdd.vn/2024/03/campaign/A35-1-600x600-1.png",
+    "https://cdn.tgdd.vn/2024/03/campaign/A35-3-600x600-1.png",
+    "https://cdn.tgdd.vn/2024/03/campaign/6-800x450.jpg",
+    "https://cdn.tgdd.vn/2024/03/campaign/4-800x450.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664a30fd89ab28c98026fadd"
+  },
+  "name": "Điện thoại Samsung Galaxy S24 Ultra 5G 256GB",
+  "brand": "Samsung",
+  "price": 26890000,
+  "category": "Smart Phone",
+  "discount": 20,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xám",
+      "memory": "256GB",
+      "price": 26890000
+    },
+    {
+      "color": "Tím",
+      "memory": "256GB",
+      "price": 26890000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 26890000
+    },
+    {
+      "color": "Vàng",
+      "memory": "256GB",
+      "price": 26890000
+    },
+    {
+      "color": "Xám",
+      "memory": "512GB",
+      "price": 30490000
+    },
+    {
+      "color": "Vàng",
+      "memory": "512GB",
+      "price": 30490000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 30490000
+    },
+    {
+      "color": "Tím",
+      "memory": "512GB",
+      "price": 30490000
+    },
+    {
+      "color": "Tím",
+      "memory": "256GB",
+      "price": 0
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319667/samsung-galaxy-s24-ultra-vang-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319667/samsung-galaxy-s24-ultra-den-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319667/samsung-galaxy-s24-ultra-tim-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319667/samsung-galaxy-s24-ultra-tim-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319667/samsung-galaxy-s24-ultra-tim-7.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664a312589ab28c98026fadf"
+  },
+  "name": "Điện thoại Samsung Galaxy Z Flip5 5G 256GB",
+  "brand": "Samsung",
+  "price": 18990000,
+  "category": "Smart Phone",
+  "discount": 26,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh mint",
+      "memory": "256GB",
+      "price": 18990000
+    },
+    {
+      "color": "Tím nhạt",
+      "memory": "256GB",
+      "price": 18990000
+    },
+    {
+      "color": "Kem",
+      "memory": "256GB",
+      "price": 18990000
+    },
+    {
+      "color": "Xanh mint",
+      "memory": "512GB",
+      "price": 21990000
+    },
+    {
+      "color": "Kem",
+      "memory": "512GB",
+      "price": 21990000
+    },
+    {
+      "color": "Tím nhạt",
+      "memory": "512GB",
+      "price": 21990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/299250/samsung-galaxy-z-flip5-mint-thumbnew-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309745/samsung-galaxy-zflip-5-kem-512gb-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309745/samsung-galaxy-zflip-5-tim-512gb-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309745/samsung-galaxy-zflip-5-tim-512gb-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309745/samsung-galaxy-zflip-5-tim-512gb-7.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664a312589ab28c98026fae0"
+  },
+  "name": "Điện thoại Samsung Galaxy Z Fold5 5G 256GB",
+  "brand": "Samsung",
+  "price": 33990000,
+  "category": "Smart Phone",
+  "discount": 17,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh da trời",
+      "memory": "256GB",
+      "price": 33990000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 33990000
+    },
+    {
+      "color": "Kem",
+      "memory": "256GB",
+      "price": 33990000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 36990000
+    },
+    {
+      "color": "Kem",
+      "memory": "512GB",
+      "price": 36990000
+    },
+    {
+      "color": "Xanh da trời",
+      "memory": "512GB",
+      "price": 36989999
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/309746/samsung-galaxy-zfold5-den-512gb-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309746/samsung-galaxy-zfold5-xanh-512gb-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309746/samsung-galaxy-zfold5-kem-512gb-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309746/samsung-galaxy-zfold5-kem-512gb-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309746/samsung-galaxy-zfold5-kem-512gb-4.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664a312589ab28c98026fae1"
+  },
+  "name": "Điện thoại OPPO Reno11 F 5G",
+  "brand": "Oppo",
+  "price": 8990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh",
+      "memory": "256GB",
+      "price": 8990000
+    },
+    {
+      "color": "Xanh đen",
+      "memory": "256GB",
+      "price": 8990000
+    },
+    {
+      "color": "Tím",
+      "memory": "256GB",
+      "price": 8990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/321895/oppo-reno11-f-purple-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/321894/oppo-reno-11f-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/321894/oppo-reno-11f-xanh-la-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/321894/oppo-reno-11f-xanh-la-6.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/321894/oppo-reno-11f-xanh-la-9.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/321894/oppo-reno-11f-xanh-2.jpg"
+  ],
+  "items": [
+    {
+      "name": "KXZ1",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://ae01.alicdn.com/kf/S7b1148e0d996449b81492c708df40addS.jpg_640x640Q90.jpg_.webp",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ỴKSKLF3456",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://image-us.samsung.com/us/smartphones/galaxy-s10/accessories/images/wireless-charger-portable-battery/001_Gallery_1600x1200-Silver-All.jpg?$product-details-jpg$",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SAFLK234",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/p/737790a5f13115571c196a2fff1d410a.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDSF445",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://www.bhphotovideo.com/images/images2500x2500/samsung_aa_bp2nm5b_us_laptop_backpack_944904.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFF45",
+      "brand": "Samsung",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51BIxEUYZ0L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b609161ab934cbef10fb4"
+  },
+  "name": "Điện thoại OPPO Reno11 Pro 5G",
+  "brand": "Oppo",
+  "price": 16990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xám",
+      "memory": "512GB",
+      "price": 16990000
+    },
+    {
+      "color": "Trắng",
+      "memory": "512GB",
+      "price": 16990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-xam-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-6.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-xam-4.jpg"
+  ],
+  "items": [
+    {
+      "name": "TRTY345",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/ff/kf/Sb498779e72154566952d66cafe5883bdp.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ERAEXXX2",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://vn-test-11.slatic.net/p/6abbbb03d0f35d943fff4d2b1bf18a3f.jpg_552x552q90.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAFDTE3",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/auEAAOSwnMVh8VJF/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFAF45",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://www.mobile-mate.com.au/file/109433.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "OKH31",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.myipadbox.com/sec/product_l/EDA002331001D.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b609161ab934cbef10fb5"
+  },
+  "name": "Điện thoại OPPO Find N3 5G",
+  "brand": "Oppo",
+  "price": 41990000,
+  "category": "Smart Phone",
+  "discount": 6,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Vàng đồng",
+      "memory": "512GB",
+      "price": 41990000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 41990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-vang-dong-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-den-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-den-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-den-3.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-vang-6.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-vang-7.jpg"
+  ],
+  "items": [
+    {
+      "name": "TRTY345",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/ff/kf/Sb498779e72154566952d66cafe5883bdp.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ERAEXXX2",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://vn-test-11.slatic.net/p/6abbbb03d0f35d943fff4d2b1bf18a3f.jpg_552x552q90.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAFDTE3",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/auEAAOSwnMVh8VJF/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFAF45",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://www.mobile-mate.com.au/file/109433.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "OKH31",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.myipadbox.com/sec/product_l/EDA002331001D.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b63ef61ab934cbef10fb8"
+  },
+  "name": "Điện thoại OPPO Find N3 Flip 5G",
+  "brand": "Oppo",
+  "price": 22990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Hồng",
+      "memory": "256GB",
+      "price": 22990000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 22990000
+    },
+    {
+      "color": "Vàng đồng",
+      "memory": "256GB",
+      "price": 22990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/317981/oppo-find-n3-flip-pink-thumb-600x600.jpeg",
+    "https://cdn.tgdd.vn/Products/Images/42/309835/oppo-n3-flip-vang-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309835/oppo-n3-flip-den-glr-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309835/oppo-n3-flip-den-glr-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/309835/oppo-n3-flip-vang-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/317981/oppo-find-n3-flip-pink-2.jpeg"
+  ],
+  "items": [
+    {
+      "name": "TRTY345",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/ff/kf/Sb498779e72154566952d66cafe5883bdp.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ERAEXXX2",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://vn-test-11.slatic.net/p/6abbbb03d0f35d943fff4d2b1bf18a3f.jpg_552x552q90.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAFDTE3",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/auEAAOSwnMVh8VJF/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFAF45",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://www.mobile-mate.com.au/file/109433.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "OKH31",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.myipadbox.com/sec/product_l/EDA002331001D.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b648261ab934cbef10fba"
+  },
+  "name": "Điện thoại OPPO A98 5G",
+  "brand": "Oppo",
+  "price": 7990000,
+  "category": "Smart Phone",
+  "discount": 11,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh dương",
+      "memory": "256GB",
+      "price": 7990000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 7990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-xanh-thumb-1-2-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-xnah-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-xnah-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-xnah-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-xnah-5.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-den-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307891/oppo-a98-5g-den-4-1.jpg"
+  ],
+  "items": [
+    {
+      "name": "TRTY345",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.lazcdn.com/g/ff/kf/Sb498779e72154566952d66cafe5883bdp.jpg_720x720q80.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "ERAEXXX2",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://vn-test-11.slatic.net/p/6abbbb03d0f35d943fff4d2b1bf18a3f.jpg_552x552q90.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAFDTE3",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/auEAAOSwnMVh8VJF/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SDFAF45",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://www.mobile-mate.com.au/file/109433.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "OKH31",
+      "brand": "Oppo",
+      "category": "Accessories",
+      "images": "https://img.myipadbox.com/sec/product_l/EDA002331001D.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b64c161ab934cbef10fbc"
+  },
+  "name": "Điện thoại iPhone 15 Pro Max",
+  "brand": "Apple",
+  "price": 29590000,
+  "discount": 15,
+  "category": "Smart Phone",
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Titan xanh",
+      "memory": "256GB",
+      "price": 29590000
+    },
+    {
+      "color": "Titan đen",
+      "memory": "256GB",
+      "price": 29990000
+    },
+    {
+      "color": "Titan trắng",
+      "memory": "256GB",
+      "price": 29990000
+    },
+    {
+      "color": "Titan xanh",
+      "memory": "512GB",
+      "price": 36090000
+    },
+    {
+      "color": "Titan đen",
+      "memory": "512GB",
+      "price": 36090000
+    },
+    {
+      "color": "Titan xanh",
+      "memory": "1TB",
+      "price": 42990000
+    },
+    {
+      "color": "Titan đen",
+      "memory": "1TB",
+      "price": 42990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-blue-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-white-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-black-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-blue-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-blue-4.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFH456",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://media.wired.com/photos/61561af0a62d729110ec10ea/191:100/w_2580,c_limit/Gear-Apple-Leather-MagSafe-Case-SOURCE-Apple.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "APFLEO850",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/LeMAAOSw-fVkDLjA/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2VA4FDS3",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://www.apple.com/newsroom/images/tile-images/Apple-AirPods-world-most-popular-wireless-headphones_03202019.jpg.landing-big_2x.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDAF4",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://cdn02.pinkoi.com/product/NdCuvAQG/1/640x530.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "AF4565",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/AppleWirelessMouse.JPG",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "CMT81945",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Apple-wireless-keyboard-aluminum-2007.jpg/1200px-Apple-wireless-keyboard-aluminum-2007.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b64c161ab934cbef10fbd"
+  },
+  "name": "Điện thoại iPhone 13 128GB",
+  "brand": "Apple",
+  "price": 13750000,
+  "category": "Smart Phone",
+  "discount": 22,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "128GB",
+      "price": 13750000
+    },
+    {
+      "color": "Hồng",
+      "memory": "128GB",
+      "price": 13990000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "128GB",
+      "price": 13990000
+    },
+    {
+      "color": "Đen",
+      "memory": "128GB",
+      "price": 13750000
+    },
+    {
+      "color": "Trắng",
+      "memory": "128GB",
+      "price": 13750000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "128GB",
+      "price": 13750000
+    },
+    {
+      "color": "Hồng",
+      "memory": "256GB",
+      "price": 17490000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "256GB",
+      "price": 17490000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 17490000
+    },
+    {
+      "color": "Trắng",
+      "memory": "256GB",
+      "price": 17490000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-la-thumb-new-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-glr-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-1-3.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-1-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-1-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-6.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-5.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFH456",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://media.wired.com/photos/61561af0a62d729110ec10ea/191:100/w_2580,c_limit/Gear-Apple-Leather-MagSafe-Case-SOURCE-Apple.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "APFLEO850",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/LeMAAOSw-fVkDLjA/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2VA4FDS3",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://www.apple.com/newsroom/images/tile-images/Apple-AirPods-world-most-popular-wireless-headphones_03202019.jpg.landing-big_2x.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDAF4",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://cdn02.pinkoi.com/product/NdCuvAQG/1/640x530.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "AF4565",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/AppleWirelessMouse.JPG",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "CMT81945",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Apple-wireless-keyboard-aluminum-2007.jpg/1200px-Apple-wireless-keyboard-aluminum-2007.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b650c61ab934cbef10fbf"
+  },
+  "name": "Điện thoại iPhone 14 Pro Max 128GB ",
+  "brand": "Apple",
+  "price": 27390000,
+  "category": "Smart Phone",
+  "discount": 7,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Tím",
+      "memory": "128GB",
+      "price": 27390000
+    },
+    {
+      "color": "Tím",
+      "memory": "256GB",
+      "price": 28990000
+    },
+    {
+      "color": "Bạc",
+      "memory": "256GB",
+      "price": 28990000
+    },
+    {
+      "color": "Tím",
+      "memory": "512GB",
+      "price": 35990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/289702/iphone-14-pro-max-bac-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289702/iphone-14-pro-max-bac-5.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289702/iphone-14-pro-max-bac-6.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-5.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-purple-6.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFH456",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://media.wired.com/photos/61561af0a62d729110ec10ea/191:100/w_2580,c_limit/Gear-Apple-Leather-MagSafe-Case-SOURCE-Apple.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "APFLEO850",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/LeMAAOSw-fVkDLjA/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2VA4FDS3",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://www.apple.com/newsroom/images/tile-images/Apple-AirPods-world-most-popular-wireless-headphones_03202019.jpg.landing-big_2x.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDAF4",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://cdn02.pinkoi.com/product/NdCuvAQG/1/640x530.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "AF4565",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/AppleWirelessMouse.JPG",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "CMT81945",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Apple-wireless-keyboard-aluminum-2007.jpg/1200px-Apple-wireless-keyboard-aluminum-2007.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b650c61ab934cbef10fc0"
+  },
+  "name": "Điện thoại iPhone 14",
+  "brand": "Apple",
+  "price": 16490000,
+  "category": "Smart Phone",
+  "discount": 19,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Tím nhạt",
+      "memory": "128GB",
+      "price": 16490000
+    },
+    {
+      "color": "Đen",
+      "memory": "128GB",
+      "price": 17390000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "128GB",
+      "price": 16490000
+    },
+    {
+      "color": "Trắng",
+      "memory": "128GB",
+      "price": 16490000
+    },
+    {
+      "color": "Vàng",
+      "memory": "256GB",
+      "price": 19990000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 20590000
+    },
+    {
+      "color": "Trắng",
+      "memory": "256GB",
+      "price": 19990000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "256GB",
+      "price": 19990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-gold-1.jpeg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-den-glr-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-trang-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-tim-1-2.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-tim-3-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/289663/iphone-14-gold-3.jpeg"
+  ],
+  "items": [
+    {
+      "name": "DFH456",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://media.wired.com/photos/61561af0a62d729110ec10ea/191:100/w_2580,c_limit/Gear-Apple-Leather-MagSafe-Case-SOURCE-Apple.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "APFLEO850",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/LeMAAOSw-fVkDLjA/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2VA4FDS3",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://www.apple.com/newsroom/images/tile-images/Apple-AirPods-world-most-popular-wireless-headphones_03202019.jpg.landing-big_2x.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDAF4",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://cdn02.pinkoi.com/product/NdCuvAQG/1/640x530.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "AF4565",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/AppleWirelessMouse.JPG",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "CMT81945",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Apple-wireless-keyboard-aluminum-2007.jpg/1200px-Apple-wireless-keyboard-aluminum-2007.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b67f661ab934cbef10fc2"
+  },
+  "name": "Điện thoại iPhone 12",
+  "brand": "Apple",
+  "price": 13490000,
+  "category": "Smart Phone",
+  "discount": 19,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Trắng",
+      "memory": "128GB",
+      "price": 13490000
+    },
+    {
+      "color": "Đỏ",
+      "memory": "128GB",
+      "price": 13490000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "128GB",
+      "price": 13490000
+    },
+    {
+      "color": "Đỏ",
+      "memory": "256GB",
+      "price": 1499000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "256GB",
+      "price": 1499000
+    },
+    {
+      "color": "Trắng",
+      "memory": "256GB",
+      "price": 1499000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-trang-1-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-xanh-la-1-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-do-1-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-256gb-trang-6-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-256gb-trang-9-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-do-5-org.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFH456",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://media.wired.com/photos/61561af0a62d729110ec10ea/191:100/w_2580,c_limit/Gear-Apple-Leather-MagSafe-Case-SOURCE-Apple.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "APFLEO850",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://i.ebayimg.com/images/g/LeMAAOSw-fVkDLjA/s-l1600.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2VA4FDS3",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://www.apple.com/newsroom/images/tile-images/Apple-AirPods-world-most-popular-wireless-headphones_03202019.jpg.landing-big_2x.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFDAF4",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://cdn02.pinkoi.com/product/NdCuvAQG/1/640x530.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "AF4565",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/0/03/AppleWirelessMouse.JPG",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "CMT81945",
+      "brand": "Apple",
+      "category": "Accessories",
+      "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Apple-wireless-keyboard-aluminum-2007.jpg/1200px-Apple-wireless-keyboard-aluminum-2007.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b67f661ab934cbef10fc3"
+  },
+  "name": "Điện thoại Xiaomi Redmi Note 13",
+  "brand": "Xiaomi",
+  "price": 4990000,
+  "category": "Smart Phone",
+  "discount": 5,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Vàng",
+      "memory": "8GB-128GB",
+      "price": 4990000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB-128GB",
+      "price": 4990000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "8GB-128GB",
+      "price": 4990000
+    },
+    {
+      "color": "Vàng",
+      "memory": "8GB-256GB",
+      "price": 5690000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB-256GB",
+      "price": 5690000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "8GB-256GB",
+      "price": 5690000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/320461/redmi-note-13-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/320461/xiaomi-redmi-note-13-vang-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/320461/redmi-note-13-den-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/320461/redmi-note-13-den-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/320461/redmi-note-13-den-5.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/320461/redmi-note-13-den-6.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b67f661ab934cbef10fc4"
+  },
+  "name": "Điện thoại Xiaomi Redmi 12",
+  "brand": "Xiaomi",
+  "price": 3490000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Bạc",
+      "memory": "4GB",
+      "price": 3490000
+    },
+    {
+      "color": "Đen",
+      "memory": "4GB",
+      "price": 3490000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "4GB",
+      "price": 3490000
+    },
+    {
+      "color": "Bạc",
+      "memory": "8GB",
+      "price": 3790000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB",
+      "price": 3790000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "8GB",
+      "price": 3790000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/307556/xiaomi-redmi-12-bac-thumb-(1)-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307245/xiaomi-redmi-12-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307245/xiaomi-redmi-12-bac-1-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307245/xiaomi-redmi-12-den-5.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/307245/xiaomi-redmi-12-den-7.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b699061ab934cbef10fc6"
+  },
+  "name": "Điện thoại Xiaomi Redmi Note 13 Pro 5G",
+  "brand": "Xiaomi",
+  "price": 8990000,
+  "category": "Smart Phone",
+  "discount": 5,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Tím",
+      "memory": "256GB",
+      "price": 8990000
+    },
+    {
+      "color": "Xanh",
+      "memory": "256GB",
+      "price": 8990000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 8990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-5g-violet-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note13-pro-tim-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-den-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-den-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/319670/xiaomi-redmi-note-13-pro-den-5.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b699061ab934cbef10fc7"
+  },
+  "name": "Điện thoại Xiaomi 14 5G",
+  "brand": "Xiaomi",
+  "price": 21490000,
+  "category": "Smart Phone",
+  "discount": 12,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "512GB",
+      "price": 21490000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 21490000
+    },
+    {
+      "color": "Trắng",
+      "memory": "512GB",
+      "price": 21490000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-green-thumbnew-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-den-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-trang-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-trang-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-trang-5.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b699061ab934cbef10fc8"
+  },
+  "name": "Điện thoại Xiaomi 13T 5G",
+  "brand": "Xiaomi",
+  "price": 10990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh dương",
+      "memory": "8GB",
+      "price": 10990000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "8GB",
+      "price": 10990000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB",
+      "price": 10990000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "12GB",
+      "price": 12890000
+    },
+    {
+      "color": "Đen",
+      "memory": "12GB",
+      "price": 12890000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "12GB",
+      "price": 12890000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/315401/xiaomi-13t-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/315401/xiaomi-13t-xanh-duong-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/315401/xiaomi-13t-den-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/315401/xiaomi-13t-den-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/315401/xiaomi-13t-den-5.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b69c161ab934cbef10fca"
+  },
+  "name": "Điện thoại Nokia 8210 4G",
+  "brand": "Nokia",
+  "price": 1590000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Đỏ",
+      "memory": "32GB",
+      "price": 1590000
+    },
+    {
+      "color": "Xanh",
+      "memory": "32GB",
+      "price": 1590000
+    },
+    {
+      "color": "Trắng",
+      "memory": "32GB",
+      "price": 1590000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/286060/Nokia%208210-do-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/286060/nokia-g8210-4g-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/286060/nokia-g8210-4g-xanh-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/286060/nokia-8210-4g-trang-1.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/286060/nokia-8210-4g-trang-4.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/286060/nokia-8210-4g-trang-8.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFG245",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/61yL3dTJVqL.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAOI3565",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51x4gEB2YAL.SS400.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2FSDFSG4",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://4.imimg.com/data4/SH/FB/MY-13092934/nokia-earphone.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NFDSG456",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://newventure.vn/upload/images/NOKIA%20BALO-01.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NoGFY45",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://windowstablet.vn/wp-content/uploads/2021/11/Bluetooth%C2%AE-Mobile-Mouse-3600-do.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FDSF4T45",
+      "brand": "MSI",
+      "category": "Accessories",
+      "images": "https://storage-asset.msi.com/global/picture/image/feature/Gaming-Gear/keyboards/GK41/msi-gk41-banner.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b69c161ab934cbef10fcb"
+  },
+  "name": "Nokia C32",
+  "brand": "Nokia",
+  "price": 2390000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "4GB",
+      "price": 2390000
+    },
+    {
+      "color": "Đen",
+      "memory": "4GB",
+      "price": 2390000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "8GB",
+      "price": 2890000
+    },
+    {
+      "color": "Đen",
+      "memory": "8GB",
+      "price": 2890000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c32_1_2.png",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c32_4_.png",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c32_3__2.png",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-32-3.png"
+  ],
+  "items": [
+    {
+      "name": "DFG245",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/61yL3dTJVqL.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAOI3565",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51x4gEB2YAL.SS400.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2FSDFSG4",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://4.imimg.com/data4/SH/FB/MY-13092934/nokia-earphone.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NFDSG456",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://newventure.vn/upload/images/NOKIA%20BALO-01.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NoGFY45",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://windowstablet.vn/wp-content/uploads/2021/11/Bluetooth%C2%AE-Mobile-Mouse-3600-do.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FDSF4T45",
+      "brand": "MSI",
+      "category": "Accessories",
+      "images": "https://storage-asset.msi.com/global/picture/image/feature/Gaming-Gear/keyboards/GK41/msi-gk41-banner.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b69c161ab934cbef10fcc"
+  },
+  "name": "Điện thoại Nokia 215",
+  "brand": "Nokia",
+  "price": 990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh ngọc",
+      "memory": "32GB",
+      "price": 990000
+    },
+    {
+      "color": "Đen",
+      "memory": "32GB",
+      "price": 990000
+    }
+  ],
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/311034/nokia-110-4g-xanh-thumb-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228366/nokia-215-1-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228366/nokia-215-den-1-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228366/nokia-215-den-4-org.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/228366/nokia-215-den-7-org.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFG245",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/61yL3dTJVqL.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAOI3565",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51x4gEB2YAL.SS400.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2FSDFSG4",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://4.imimg.com/data4/SH/FB/MY-13092934/nokia-earphone.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NFDSG456",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://newventure.vn/upload/images/NOKIA%20BALO-01.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NoGFY45",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://windowstablet.vn/wp-content/uploads/2021/11/Bluetooth%C2%AE-Mobile-Mouse-3600-do.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FDSF4T45",
+      "brand": "MSI",
+      "category": "Accessories",
+      "images": "https://storage-asset.msi.com/global/picture/image/feature/Gaming-Gear/keyboards/GK41/msi-gk41-banner.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a1e61ab934cbef10fce"
+  },
+  "name": "Nokia C31",
+  "brand": "Nokia",
+  "price": 3190000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh ngọc",
+      "memory": "3GB-32GB",
+      "price": 3190000
+    },
+    {
+      "color": "Xanh ngọc",
+      "memory": "4GB-32GB",
+      "price": 3690000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-c31-xl_1.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/_/2_239_1_1.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/3/_/3_222_1.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/_/4_184_1.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFG245",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/61yL3dTJVqL.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAOI3565",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51x4gEB2YAL.SS400.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2FSDFSG4",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://4.imimg.com/data4/SH/FB/MY-13092934/nokia-earphone.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NFDSG456",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://newventure.vn/upload/images/NOKIA%20BALO-01.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NoGFY45",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://windowstablet.vn/wp-content/uploads/2021/11/Bluetooth%C2%AE-Mobile-Mouse-3600-do.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FDSF4T45",
+      "brand": "MSI",
+      "category": "Accessories",
+      "images": "https://storage-asset.msi.com/global/picture/image/feature/Gaming-Gear/keyboards/GK41/msi-gk41-banner.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a1e61ab934cbef10fcf"
+  },
+  "name": "Nokia G22",
+  "brand": "Nokia",
+  "price": 3990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "32GB",
+      "price": 3990000
+    },
+    {
+      "color": "Đen",
+      "memory": "32GB",
+      "price": 3990000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/g/dgtyi8899_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/g/dgtyi8899_2_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/g/dgfg666_2_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/n/o/nokia-g22-xanh-2.jpg"
+  ],
+  "items": [
+    {
+      "name": "DFG245",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/61yL3dTJVqL.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FSAOI3565",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://images-na.ssl-images-amazon.com/images/I/51x4gEB2YAL.SS400.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "2FSDFSG4",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://4.imimg.com/data4/SH/FB/MY-13092934/nokia-earphone.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NFDSG456",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://newventure.vn/upload/images/NOKIA%20BALO-01.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "NoGFY45",
+      "brand": "Nokia",
+      "category": "Accessories",
+      "images": "https://windowstablet.vn/wp-content/uploads/2021/11/Bluetooth%C2%AE-Mobile-Mouse-3600-do.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FDSF4T45",
+      "brand": "MSI",
+      "category": "Accessories",
+      "images": "https://storage-asset.msi.com/global/picture/image/feature/Gaming-Gear/keyboards/GK41/msi-gk41-banner.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a1e61ab934cbef10fd0"
+  },
+  "name": "Huawei P60 Pro",
+  "brand": "Huawei",
+  "price": 1039000,
+  "category": "Smart Phone",
+  "discount": 9,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Tím nhạt",
+      "memory": "256GB",
+      "price": 10390000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "256GB",
+      "price": 10390000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 10390000
+    },
+    {
+      "color": "Trắng",
+      "memory": "256GB",
+      "price": 10390000
+    },
+    {
+      "color": "Tím nhạt",
+      "memory": "512GB",
+      "price": 11590000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 11590000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "512GB",
+      "price": 11590000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/t/_ter3434_3_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/t/_ter3434_1_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/t/_ter3434.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/_/t/_ter3434_2_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:90/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Huawei/Huawei_P/huawei-p60-1_1.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a6561ab934cbef10fd2"
+  },
+  "name": "Huawei Pocket S",
+  "brand": "Huawei",
+  "price": 21250000,
+  "category": "Smart Phone",
+  "discount": 8,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "256GB",
+      "price": 21250000
+    },
+    {
+      "color": "Xanh dương",
+      "memory": "256GB",
+      "price": 21250000
+    },
+    {
+      "color": "Hồng nhạt",
+      "memory": "256GB",
+      "price": 21250000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 21250000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 23050000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "512GB",
+      "price": 23050000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/c/vcvv_1_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/c/vcvv_5_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/c/vcvv_4_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/v/c/vcvv.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a6561ab934cbef10fd3"
+  },
+  "name": "Huawei Nova 12Pro",
+  "brand": "Huawei",
+  "price": 1230000,
+  "category": "Smart Phone",
+  "discount": 10,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Đen",
+      "memory": "128GB",
+      "price": 1230000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "128GB",
+      "price": 1230000
+    },
+    {
+      "color": "Vàng nhạt",
+      "memory": "128GB",
+      "price": 1230000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-12-pro.png",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-12-pro_1_.png",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-12-pro_2_.png"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a6561ab934cbef10fd4"
+  },
+  "name": "Huawei Nova 11i",
+  "brand": "Huawei",
+  "price": 10990000,
+  "category": "Smart Phone",
+  "discount": 6,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xanh lá",
+      "memory": "128GB",
+      "price": 10990000
+    },
+    {
+      "color": "Đen",
+      "memory": "128GB",
+      "price": 10990000
+    },
+    {
+      "color": "Xanh lá",
+      "memory": "512GB",
+      "price": 1210000
+    },
+    {
+      "color": "Đen",
+      "memory": "512GB",
+      "price": 1210000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-11_1_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-11.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "664b6a6561ab934cbef10fd5"
+  },
+  "name": "Huawei Nova Y91",
+  "brand": "Huawei",
+  "price": 9990000,
+  "category": "Smart Phone",
+  "discount": 0,
+<<<<<<< HEAD
+  "version": [
+=======
+  "versions": [
+>>>>>>> refs/remotes/origin/main
+    {
+      "color": "Xám",
+      "memory": "128GB",
+      "price": 9990000
+    },
+    {
+      "color": "Đen",
+      "memory": "128GB",
+      "price": 9990000
+    },
+    {
+      "color": "Xám ",
+      "memory": "256GB",
+      "price": 10590000
+    },
+    {
+      "color": "Đen",
+      "memory": "256GB",
+      "price": 10590000
+    }
+  ],
+  "images": [
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-y91_1_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-y91_2_.jpg",
+    "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/h/u/huawei-nova-y91.jpg"
+  ],
+  "items": [
+    {
+      "name": "SDAFHJJ345",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://m.media-amazon.com/images/I/71Xs-MqLm2L.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XRTSAF1",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://example.com/xiaomi-charger-image.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "FEFGR445",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWXMw3nA0FpIxNCbpFSS9i6zlNAVD_-cmew&s",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "XFGTYH67",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://cdn2.cellphones.com.vn/x/media/catalog/product/b/a/balo-laptop-xiaomi-mi-city-backpack-2-5_1.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    },
+    {
+      "name": "SFA456",
+      "brand": "Xiaomi",
+      "category": "Accessories",
+      "images": "https://img.gigadigital.vn/image/1664613013747-anh-dai-dien.jpg",
+      "version": [],
+      "discount": 0,
+      "price": 0,
+      "items": []
+    }
+  ]
+}]

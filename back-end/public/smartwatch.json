@@ -1,0 +1,354 @@
+[
+    {
+        "name": "Apple Watch SE 2022 GPS ",
+        "brand": "Apple",
+        "price": 6590000,
+        "category": "Smart Watch",
+        "discount": 12,
+        "version": [
+            {
+                "color": "Trắng",
+                "memory": "",
+                "price": 6590000
+            },
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 6590000
+            },
+            {
+                "color": "Vàng",
+                "memory": "",
+                "price": 6590000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/289798/apple-watch-se-2022-44mm-vien-nhom-trang-thumbn-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/289798/apple-watch-se-2022-44mm-vien-nhom-trang-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/289798/apple-watch-se-2022-44mm-vien-nhom-3.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Apple Watch Ultra 2 GPS + Cellular",
+        "brand": "Apple",
+        "price": 21190000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 21190000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/314714/apple-watch-ultra-lte-49mm-vien-titanium-day-trail-den-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/314714/apple-watch-ultra-lte-49mm-vien-titanium-day-trail-size-m-l-den-103.jpg"
+        ],
+        "items": ""
+    },
+
+    {
+        "name": "Apple Watch Series 9 GPS + Cellular",
+        "brand": "Apple",
+        "price": 12790000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Hồng",
+                "memory": "",
+                "price": 12790000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/315995/apple-watch-s9-lte-41mm-vien-nhom-day-vai-hong-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/315995/apple-watch-s9-lte-41mm-vien-nhom-day-vai-hong-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/315995/apple-watch-s9-lte-41mm-vien-nhom-day-vai-hong-3.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Apple Watch SE 2023 GPS + Cellular",
+        "brand": "Apple",
+        "price": 8190000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xanh đen đậm",
+                "memory": "",
+                "price": 8190000
+            },
+            {
+                "color": "Trắng ",
+                "memory": "",
+                "price": 8190000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-xanh-den-thumb-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-xanh-den-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-xanh-den-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-trang-starlight-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-trang-starlight-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/316009/apple-watch-se-lte-2023-44mm-vien-nhom-day-silicone-trang-starlight-3.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Watch5",
+        "brand": "Samsung",
+        "price": 4790000,
+        "category": "Smart Watch",
+        "discount": 10,
+        "version": [
+            {
+                "color": "Tím",
+                "memory": "",
+                "price": 4790000
+            },
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 4790000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch5-tn-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch-5-40-mm-bac-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch-5-40-mm-bac-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch-5-40-mm-den-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch-5-40-mm-den-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/284932/samsung-galaxy-watch-5-40-mm-bac-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Watch4",
+        "brand": "Samsung",
+        "price": 2990000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Vàng hồng",
+                "memory": "",
+                "price": 2990000
+            },
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 2990000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/248752/samsung-galaxy-watch-4-40mm-tn-2-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/248752/smartwatch-samsung-galaxy-watch-4-vang-hong-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/248752/smartwatch-samsung-galaxy-watch-4-vang-hong-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/248752/smartwatch-samsung-galaxy-watch-4-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/248752/smartwatch-samsung-galaxy-watch-4-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Watch6 LTE",
+        "brand": "Samsung",
+        "price": 6290000,
+        "category": "Smart Watch",
+        "discount": 6,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 6290000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/310851/samsung-galaxy-watch6-40mm-lte-den-ksp-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/310851/samsung-galaxy-watch6-40mm-lte-den-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/310851/samsung-galaxy-watch6-40mm-lte-den-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/310851/samsung-galaxy-watch6-40mm-lte-den-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Watch6 Classic LTE",
+        "brand": "Samsung",
+        "price": 7790000,
+        "category": "Smart Watch",
+        "discount": 4,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 7790000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/310861/samsung-galaxy-watch6-classic-lte-43-mm-den-ksp-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/310861/samsung-galaxy-watch6-classic-lte-43mm-den-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/310861/samsung-galaxy-watch6-classic-lte-43mm-den-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Samsung Galaxy Watch5 Pro LTE",
+        "brand": "Samsung",
+        "price": 6490000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 6490000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/285263/samsung-galaxy-watch5-pro-lte-den-tn-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/285263/sam-sung-galaxy-watch-5-pro-lte-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/285263/sam-sung-galaxy-watch-5-pro-lte-4.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/285263/sam-sung-galaxy-watch-5-pro-lte-6.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Garmin Forerunner 55",
+        "brand": "Garmin",
+        "price": 5020000,
+        "category": "Smart Watch",
+        "discount": 5,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 5020000
+            },
+            {
+                "color": "Xám",
+                "memory": "",
+                "price": 5020000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/244296/garmin-forerunner-55-day-silicone-den-tn-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/244296/garmin-forerunner-55-day-silicone-den-1-3.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/244296/garmin-forerunner-55-day-silicone-den-2-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/244296/garmin-forerunner-55-day-silicone-xam-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/244296/garmin-forerunner-55-day-silicone-xam-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Garmin Forerunner 265 Music",
+        "brand": "Garmin",
+        "price": 11100000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Trắng",
+                "memory": "",
+                "price": 11100000
+            },
+            {
+                "color": "Xanh dương",
+                "memory": "",
+                "price": 11100000
+            },
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 11100000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/305882/garmin-forerunner-265-trang-tn-2-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305882/garmin-forerunner-265-xanh-duong-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305882/garmin-forerunner-265-den-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305882/garmin-forerunner-265-den-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Garmin Venu SQ 2",
+        "brand": "Garmin",
+        "price": 6160000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Xám",
+                "memory": "",
+                "price": 6160000
+            },
+            {
+                "color": "Xanh bạc hà",
+                "memory": "",
+                "price": 6160000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/287372/garmin-venu-sq-2-xam-tn-2-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/287372/garmin-venu-sq-2-day-silicone-1-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/287372/garmin-venu-sq-2-day-silicone-2-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/287372/garmin-venu-sq-2-day-silicone-xanh-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/287372/garmin-venu-sq-2-day-silicone-xanh-2.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Garmin Epix Pro Gen 2 ",
+        "brand": "Garmin",
+        "price": 24690000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 24690000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/308485/garmin-epix-pro-gen-2-tb-fix-1-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/308485/garmin-epix-pro-gen-2-2.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/308485/garmin-epix-pro-gen-2-3.",
+            "https://cdn.tgdd.vn/Products/Images/7077/308485/garmin-epix-pro-gen-2-4.jpg"
+        ],
+        "items": ""
+    },
+    {
+        "name": "Garmin Forerunner 965",
+        "brand": "Garmin",
+        "price": 15660000,
+        "category": "Smart Watch",
+        "discount": 0,
+        "version": [
+            {
+                "color": "Trắng ",
+                "memory": "",
+                "price": 15660000
+            },
+            {
+                "color": "Đen",
+                "memory": "",
+                "price": 15660000
+            },
+            {
+                "color": "Vàng",
+                "memory": "",
+                "price": 15660000
+            }
+        ],
+        "images": [
+            "https://cdn.tgdd.vn/Products/Images/7077/305881/garmin-forerunner-965-trang-tn-2-600x600.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305881/garmin-forerunner-965-den-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305881/garmin-forerunner-965-vang-1.jpg",
+            "https://cdn.tgdd.vn/Products/Images/7077/305881/garmin-forerunner-965-vang-2.jpg"
+        ],
+        "items": ""
+    }
+]

@@ -1,0 +1,48 @@
+// LocationSelector.jsx
+
+import React, { useState } from "react";
+import { Combobox } from "@/components/ui/combobox"; // Đường dẫn tới component Combobox
+
+const provinces = [
+  {
+    value: "hanoi",
+    label: "Ha Noi",
+  },
+  // Thêm dữ liệu cho các tỉnh khác...
+];
+
+const districts = [
+  {
+    value: "hanoi-district1",
+    label: "District 1",
+    province: "hanoi", // Thêm thông tin về tỉnh
+  },
+  // Thêm dữ liệu cho các huyện khác...
+];
+
+export function LocationSelector() {
+  const [selectedProvince, setSelectedProvince] = useState("");
+  const [selectedDistrict, setSelectedDistrict] = useState("");
+
+  // Lọc danh sách huyện theo tỉnh đã chọn
+  const filteredDistricts = districts.filter(
+    (district) => district.province === selectedProvince
+  );
+
+  return (
+    <div>
+      <Combobox
+        data={provinces}
+        value={selectedProvince}
+        onChange={setSelectedProvince}
+        placeholder="Select province..."
+      />
+      <Combobox
+        data={filteredDistricts}
+        value={selectedDistrict}
+        onChange={setSelectedDistrict}
+        placeholder="Select district..."
+      />
+    </div>
+  );
+}
